@@ -1,0 +1,8 @@
+C:\Users\james\Documents\Visual Studio 2015\Projects\Intercom\Array_Unit_Tests\bin\Debug\Array_Unit_Tests.dll
+C:\Users\james\Documents\Visual Studio 2015\Projects\Intercom\Array_Unit_Tests\bin\Debug\Array_Unit_Tests.pdb
+C:\Users\james\Documents\Visual Studio 2015\Projects\Intercom\Array_Unit_Tests\bin\Debug\Intercom.exe
+C:\Users\james\Documents\Visual Studio 2015\Projects\Intercom\Array_Unit_Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\james\Documents\Visual Studio 2015\Projects\Intercom\Array_Unit_Tests\bin\Debug\Intercom.pdb
+C:\Users\james\Documents\Visual Studio 2015\Projects\Intercom\Array_Unit_Tests\obj\Debug\Array_Unit_Tests.csprojResolveAssemblyReference.cache
+C:\Users\james\Documents\Visual Studio 2015\Projects\Intercom\Array_Unit_Tests\obj\Debug\Array_Unit_Tests.dll
+C:\Users\james\Documents\Visual Studio 2015\Projects\Intercom\Array_Unit_Tests\obj\Debug\Array_Unit_Tests.pdb
